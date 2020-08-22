@@ -1,0 +1,61 @@
+<?php
+/**
+ * :: Hospital Language File ::
+ * To manage hospital related language phrases.
+ *
+ **/
+
+return [
+
+    'hospital_profile'          => 'Hospital Profile',
+    'hospital_detail'           => 'Hospital Detail',
+    'hospital'                  => 'Hospital',
+    'hospitals'                  => 'Hospitals',
+    'hospital_buildings'        => 'Total Buildings',
+    'hospital_code'             => 'Hospital Code',
+    'cp'                        => 'CP',
+    'banks_detail'              => 'Banks Information',
+    'bank_detail'               => 'Bank Information',
+    'companies'                 => 'Companies',
+    'hospital_status'           => 'Hospital Status',
+    'hospital_list'             => 'Hospital List',
+    'hospital_name'             => 'Hospital Name',
+    'contact_person'            => 'Managing Director',
+    'tin_number'                => 'Tin Number',
+    'cst_number'                => 'CST Number',
+    'gst_number'                => 'GST Number',
+    'pan_number'                => 'Pan Number',
+    'email'                     => 'Email',
+    'email1'                    => 'Email 1',
+    'mobile1'                   => 'Mobile No',
+    'mobile2'                   => 'Mobile No 1',
+    'website'                   => 'Website',
+    'mobile'                    => 'Mobile',
+    'phone'                     => 'Phone',
+    'city'                      => 'City',
+    'state'                     => 'State',
+    'country'                   => 'Country',
+    'brand_name'                => 'Brand Name',
+    'timezone'                  => 'Time Zone',
+    'pincode'                   => 'Pincode',
+    'permanent_address'         => 'Permanent Address',
+    'correspondence_address'    => 'Correspondence Address',
+    'header_content'            => 'Header Content',
+    'certify_content'           => 'Certify Content',
+    'term_condition'            => 'Terms and Conditions',
+    'c_e_regn_no'               => 'C.E. Regn No',
+    'c_ex_range_no'             => 'C. EX RANGE NO',
+    'commissionerate_code'      => 'Commissionerate Code',
+    'c_ex_comm'                 => 'C.Ex. Comm',
+    'c_ex_div_no'               => 'C. EX DIV NO',
+    'save_logo'                 => 'Save Logo',
+    'hospital_logo'             => 'Hospital Logo',
+    'hospital_setting'          => 'Hospital Settings',
+    'hospital_theme'            => 'Hospital Theme',
+    'other_info'                => 'Hospital Other information',
+    'insurance_name'            => 'Insurance Name',
+    'insurance_number'          => 'Insurance Number',
+    'logo_max_width'            => 'You can upload image having width 300px only',
+    'http'                      => 'http://',
+
+];
